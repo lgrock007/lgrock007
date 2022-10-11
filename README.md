@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lgrock007&" alt="lgrock007" /></p>
 
 <h1>  DISCORD TAG : </h1>
-|[![DISCORD](https://img.shields.io/badge/!%20R%20O%20C%20K-%235728-blue)]|
+|[![DISCORD](https://img.shields.io/badge/!%20R%20O%20C%20K-%235728-blue)]()|
