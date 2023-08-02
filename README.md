@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQGy24Sii9reww/profile-displaybackgroundimage-shrink_350_1400/0/1691000012992?e=1696464000&v=beta&t=8wbQgYK-lM5V32qmfi7ph_cWdDVe4ZY88yi2ebZmfF0)]()
 
 <h1 align="center">Hi 👋, I'm Rock</h1>
-<h3 align="center"> Student | Learner | learning about Linux... </h3>
+<h3 align="center"> Student |Aspiring Python Developer </h3>
 <img align="right" width="400" alt="Coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently studying at [Sathyabama Institute of Science and Technology , Chennai.](https://www.sathyabama.ac.in/)
 
-- 🌱 I’m currently learning **Python , Linux , Shell Scripting .....**
+- 🌱 I’m currently learning **Python .....**
 
 - 📫 How to reach me **marshmelloxoxo1986@gmail.com**
 
