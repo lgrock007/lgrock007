@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQHCzUzoNCLYXg/profile-displaybackgroundimage-shrink_350_1400/0/1678792641401?e=1688601600&v=beta&t=n4BWc0zEmNhL6WB1_x72v8DlowVzUusGIeTjP4Usmoo)]()
+[![MasterHead](https://media.licdn.com/dms/image/D4E16AQGy24Sii9reww/profile-displaybackgroundimage-shrink_350_1400/0/1691000012992?e=1696464000&v=beta&t=8wbQgYK-lM5V32qmfi7ph_cWdDVe4ZY88yi2ebZmfF0)]()
 
 <h1 align="center">Hi 👋, I'm Rock</h1>
 <h3 align="center"> Student | Learner | learning about Linux... </h3>
