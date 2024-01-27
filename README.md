@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Welcome to my GitHub space! 🌐<br><br>👋 Hey there! I'm a tech enthusiast studying at Sathyabama Institute of Science and Technology in Chennai. 📚 Currently diving into Front-End Development and Python. 💻<br><br>🔭 Embark on a coding odyssey with me, exploring the digital cosmos, crafting pixel-perfect designs, and sprinkling a touch of magic with front-end wonders in HTML, CSS, and a dash of Python! 🌌💻✨<br><br>⚡ Fun Fact: I traverse the digital realm like a playground, turning challenges into thrilling code adventures with a spark of creativity! 💡🚀
+🚀 Welcome to my GitHub space! 🌐<br><br>👋 Hey there! I'm a tech enthusiast studying at Sathyabama Institute of Science and Technology in Chennai. <br><br>📚 Currently diving into Front-End Development and Python. 💻<br><br>🔭 Embark on a coding odyssey with me, exploring the digital cosmos, crafting pixel-perfect designs, and sprinkling a touch of magic with front-end wonders in HTML, CSS, and a dash of Python! 🌌💻✨<br><br>⚡ Fun Fact: I traverse the digital realm like a playground, turning challenges into thrilling code adventures with a spark of creativity! 💡🚀
 <br><br>🌱 Growing every day - let's connect for collaborations and coding adventures! 🚧<br><br>Happy coding! 🖥️💙
 
 
