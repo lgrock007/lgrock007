@@ -1,6 +1,17 @@
 # 💫 About Me:
-🚀 Welcome to my GitHub space! 🌐<br><br>👋 Hey there! I'm a tech enthusiast studying at Sathyabama Institute of Science and Technology in Chennai. <br><br>📚 Currently diving into Front-End Development and Python. 💻<br><br>🔭 Embark on a coding odyssey with me, exploring the digital cosmos, crafting pixel-perfect designs, and sprinkling a touch of magic with front-end wonders in HTML, CSS, and a dash of Python! 🌌💻✨<br><br>⚡ Fun Fact: I traverse the digital realm like a playground, turning challenges into thrilling code adventures with a spark of creativity! 💡🚀
-<br><br>🌱 Growing every day - let's connect for collaborations and coding adventures! 🚧<br><br>Happy coding! 🖥️💙
+🚀 Welcome to my GitHub space! 🌐  
+
+👋 Hey there! I'm Ramesh M, a tech enthusiast and Electronics and Communication Engineering graduate from Sathyabama Institute of Science and Technology, Chennai.  
+
+💼 Currently working at LTTS (L&T Technology Services), where I am gaining hands-on experience in product development and system engineering.  
+
+💻 My interests include Python programming, Front-End Development, and learning new technologies related to software and engineering.  
+
+🌱 I believe in continuous learning and improving my technical and professional skills every day.  
+
+⚡ Fun Fact: I enjoy exploring new technologies and solving real-world problems through coding.  
+
+🚧 Let's connect and build something amazing together!  
 
 
 ## 🌐 Socials:
@@ -18,10 +29,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lgrock007&icon=0&color=0)](https://visitcount.itsvg.in)
