@@ -3,7 +3,7 @@
 
 👋 Hey there! I'm Ramesh M, a tech enthusiast and Electronics and Communication Engineering graduate from Sathyabama Institute of Science and Technology, Chennai.  
 
-💼 Currently working at LTTS (L&T Technology Services), where I am gaining hands-on experience in product development and system engineering.  
+💼 Currently working at LTTS (L&T Technology Services).  
 
 💻 My interests include Python programming, Front-End Development, and learning new technologies related to software and engineering.  
 
